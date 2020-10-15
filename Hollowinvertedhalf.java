@@ -1,4 +1,4 @@
-class Hollowinvertedhalf
+class HollowInvertedHalf
 {
      public static void main(String args[])
      {
